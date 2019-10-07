@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "ftp_utils.c": "cpp",
+        "string_utils.c": "cpp",
+        "network_utils.c": "cpp"
+    }
+}
